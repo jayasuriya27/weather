@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.aa9dcb8e.css",
-    "main.js": "/weather/static/js/main.5cf4d689.js",
-    "static/media/background.jpg": "/weather/static/media/background.7d07f7f13526ced91f15.jpg",
+    "main.css": "/weather/static/css/main.53e16467.css",
+    "main.js": "/weather/static/js/main.ed7f1918.js",
+    "static/media/background1.jpg": "/weather/static/media/background1.815ed6091889597c082a.jpg",
     "static/media/longitude.png": "/weather/static/media/longitude.b8e25e0508faaf103e2a.png",
     "static/media/weather.png": "/weather/static/media/weather.1a9ff2aa15a98a67b875.png",
+    "static/media/humidity.png": "/weather/static/media/humidity.c8ee914ee96a5293ae25.png",
     "static/media/latitude.png": "/weather/static/media/latitude.34c0a296da21022910b1.png",
-    "static/media/visibility.png": "/weather/static/media/visibility.c53d9489f524c038a857.png",
-    "static/media/humidity.png": "/weather/static/media/humidity.13545ad8d48b0bf8e908.png",
-    "static/media/feels.png": "/weather/static/media/feels.c7f1b8709df85bca23c0.png",
+    "static/media/visibility.png": "/weather/static/media/visibility.71bbb2223e540581d522.png",
+    "static/media/feels.png": "/weather/static/media/feels.569f91495be45fa05d26.png",
     "static/media/location.png": "/weather/static/media/location.31fe5bbd29391dcaea6f.png",
     "static/media/windy.png": "/weather/static/media/windy.e3f79daf18886c964510.png",
     "index.html": "/weather/index.html",
-    "main.aa9dcb8e.css.map": "/weather/static/css/main.aa9dcb8e.css.map",
-    "main.5cf4d689.js.map": "/weather/static/js/main.5cf4d689.js.map"
+    "main.53e16467.css.map": "/weather/static/css/main.53e16467.css.map",
+    "main.ed7f1918.js.map": "/weather/static/js/main.ed7f1918.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa9dcb8e.css",
-    "static/js/main.5cf4d689.js"
+    "static/css/main.53e16467.css",
+    "static/js/main.ed7f1918.js"
   ]
 }
